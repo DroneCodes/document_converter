@@ -82,7 +82,7 @@ public class Main {
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/DroneCodes/document-converter.git
+git clone https://github.com/DroneCodes/document_converter.git
 ```
 
 2. Build with Maven:
